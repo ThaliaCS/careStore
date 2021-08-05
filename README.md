@@ -1,5 +1,5 @@
 
-# CareStore🎙
+# CareStore 🤲
 Projeto desenvolvido para a Hackathon do Bem promovido pela Invillia
 
 <img style="border-radius: 6px" src="https://im7.ezgif.com/tmp/ezgif-7-7d9002949dca.gif"/>
