@@ -29,4 +29,4 @@ $ yarn
 # Inicie o projeto
 $ yarn start
 ```
-Made with ❤ by <a href="https://www.linkedin.com/in/thalia-schone/">14-Bisfrost</a>
+Made with ❤ by 14-Bisfrost
