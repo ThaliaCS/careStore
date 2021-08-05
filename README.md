@@ -19,7 +19,7 @@ Backend hospedado no heroku
 
 Clone o projeto e acesse a pasta: 
 
-``` git clone https://github.com/ThaliaCS/carestore.git  && cd carestore``
+``` git clone https://github.com/ThaliaCS/carestore.git  && cd carestore```
 
 Siga os passos abaixo
 ```bash
