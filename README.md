@@ -2,7 +2,7 @@
 # CareStore🎙
 Projeto desenvolvido para a Hackathon do Bem promovido pela Invillia
 
-<img style="border-radius: 6px" src="https://i.imgur.com/i0Gjex0.png"/>
+<img style="border-radius: 6px" src="https://im7.ezgif.com/tmp/ezgif-7-7d9002949dca.gif"/>
 
 
 ## 🧪 Tecnologias
@@ -27,6 +27,6 @@ Siga os passos abaixo
 $ yarn
 
 # Inicie o projeto
-$ yarn dev
+$ yarn start
 ```
 Made with ❤ by <a href="https://www.linkedin.com/in/thalia-schone/">14-Bisfrost</a>
